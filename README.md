@@ -2,7 +2,7 @@
 I am a software engineer at the University of Maryland. I am interested in full-stack development, AI/ML, and cloud systems.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/johnnyzhu0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zhu.johnny0@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnnyzhu0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zhu.johnny0@gmail.com) 
 
 ## 🖊️ Projects:
 
