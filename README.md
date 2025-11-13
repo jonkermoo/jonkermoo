@@ -10,11 +10,11 @@ I am a software engineer at the University of Maryland. I am interested in full-
 Serverless RAG platform that generated personalized study guides from uploaded textbooks and notes<br>
 <code>Go</code><code>Python</code><code>PostgreSQL</code><code>Lambda</code><code>S3</code><code>RDS</code><code>Docker</code>
 
-### Road AI
+### Road AI [🔗](https://www.roadai.online)
 Live road-hazard detection system that processes RTMP video streams for map-based visualization<br>
 <code>Python</code><code>OpenCV</code><code>YoloV8</code><code>EC2</code><code>Supabase</code>
 
-### Researchr
+### Researchr [🔗](https://chromewebstore.google.com/detail/researchr/jnffhnnckemifhckkkebhjhboligacea)
 A Chrome Extension that detects DOIs on webpages and fetch open-access papers via Unpaywall API<br>
 <code>React</code><code>TypeScript</code><code>Chome Manifest V3</code>
 
