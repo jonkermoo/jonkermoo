@@ -8,7 +8,7 @@ I am a software engineer at the University of Maryland. I am interested in full-
 
 ### Textbook AI
 Serverless RAG platform that generated personalized study guides from uploaded textbooks and notes<br>
-<code>Go</code><code>Python</code><code>PostgreSQL</code><code>Lambda</code><code>S3</code><code>RDS</code>
+<code>Go</code><code>Python</code><code>PostgreSQL</code><code>Lambda</code><code>S3</code><code>RDS</code><code>Docker</code>
 
 ### Road AI
 Live road-hazard detection system that processes RTMP video streams for map-based visualization<br>
