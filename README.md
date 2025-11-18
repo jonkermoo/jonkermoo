@@ -6,8 +6,8 @@ I am a software engineer at the University of Maryland. I am interested in full-
 
 ## 🖊️ Projects:
 
-### Textbook AI
-Serverless RAG platform that generated personalized study guides from uploaded textbooks and notes<br>
+### Lexra [🔗](https://www.lexra.online)
+RAG system delivering sub-second textbook retrieval using EC2, RDS, and S3<br>
 <code>Go</code><code>Python</code><code>PostgreSQL</code><code>Lambda</code><code>S3</code><code>RDS</code><code>Docker</code>
 
 ### Road AI [🔗](https://www.roadai.online)
