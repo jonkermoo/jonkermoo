@@ -8,7 +8,7 @@ I am a software engineer at the University of Maryland. I am interested in full-
 
 ### Lexra [🔗](https://www.lexra.online)
 RAG system delivering sub-second textbook retrieval using EC2, RDS, and S3<br>
-<code>Go</code><code>Python</code><code>PostgreSQL</code><code>Lambda</code><code>S3</code><code>RDS</code><code>Docker</code>
+<code>Go</code><code>Python</code><code>PostgreSQL</code><code>EC2</code><code>S3</code><code>RDS</code><code>Docker</code>
 
 ### Road AI [🔗](https://www.roadai.online)
 Live road-hazard detection system that processes RTMP video streams for map-based visualization<br>
